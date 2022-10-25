@@ -11,8 +11,8 @@ Desenvolver  um  sistema  para  controle  de  impressões  realizadas  no  Senac
 • O aluno só pode imprimir se tiver saldo disponível.<br/>
 • Realizar uma consulta para identificar o saldo disponível de impressões de todos os alunos.<br/>
 ### 🛠️ Construído com
-• Windows forms C#
-• SQL Server
+• Windows forms C# <br/>
+• SQL Server <br/>
 ### ✒️ Autores
-Desenvolvedor: Natália Araújo de Oliveira <br/>
-Desenvolvedor: Elias dos Santos<br/>
+Desenvolvedores: Natália Araújo de Oliveira e Elias dos Santos <br/>
+
