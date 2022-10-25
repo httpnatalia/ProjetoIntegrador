@@ -1,6 +1,6 @@
 ## ProjetoIntegrador
 ### 📋 Pré-requisitos
-• O aluno sempre começa sem saldo e deve comprar quantidades de impressões para si.
+• O aluno sempre começa sem saldo e deve comprar quantidades de impressões para si. <br/>
 • Na  mesma  compra  cada  aluno  pode  comprar  25  ou  50  impressões,  não  pode comprar nenhuma quantidade diferente, somente uma das duas opções ou 25 ou 50.
 • O aluno pode acumular impressões, ou seja, ele pode ter impressões disponíveis ainda e já comprar outra quantidade, respeitando as quantidades da regra acima.
 • As compras não vencem. Sempre ficarão disponíveis no saldo do aluno
